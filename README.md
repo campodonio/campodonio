@@ -1,8 +1,4 @@
-### Oii! Eu sou a Jamille.
-
-- 🔭 Hoje sou estudante de programação.
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
+# Oiii! Eu sou Jamille. Sou dev front-end. 
 
 <div align="center">
   <a href="https://github.com/campodonio">
