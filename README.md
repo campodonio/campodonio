@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 
-  <img align="right" alt="jam-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/gjp8qKmW/picasion-com-ee0e09f3d34e7dfa2554a1afce445bf5.gif">
+  <img align="right" alt="jam-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/Hst6rrHK/download20220904215026.jpg">
 </div>
 
 ##  
