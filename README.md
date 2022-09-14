@@ -1,5 +1,4 @@
-# Oiii! Eu sou Jamille. Sou dev front-end. 
-
+# Olá! Eu sou Jamille Campodonio.
 <div align="center">
   <a href="https://github.com/campodonio">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=campodonio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
