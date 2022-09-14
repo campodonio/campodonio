@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/campodonio">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=campodonio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campodonio&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=campodonio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campodonio&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
