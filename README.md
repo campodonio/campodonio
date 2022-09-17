@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campodonio&layout=compact&hide_border=true&title_color=a77ecb&text_color=579c96&bg_color=0d1117" />
 
 ![Snake animation](https://github.com/campodonio/campodonio/blob/output/github-contribution-grid-snake.svg)
-<br>
+
 
 </div>
 <div align="center">  
